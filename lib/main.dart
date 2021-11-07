@@ -95,7 +95,7 @@ class _MyHomePageState extends State<MyHomePage> {
               height: 50,
               color: Colors.green,
               child: Text(
-                'Portfolio: www.test.com',
+                'test',
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 20,
